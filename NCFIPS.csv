@@ -1,0 +1,35 @@
+FIPS,STNAME,Branch ,HF FEMA,COUNTY,Population,TOT_MALE,TOT_FEMALE,WA_MALE,WA_FEMALE,NHWA_MALE,NHWA_FEMALE,NHWhite_Alone,Not_NHWhite_Alone,MinorityMinority,MinorityPCT,Black,BlackPCT,Hispanic,HispanicPCT
+37019,North Carolina,Wilmington,Individual and Public Assistance (Cat A-G),Brunswick,112257,54877,57380,46900,48872,44194,46777,90971,21286,No,18.96%,12889,11%,5582,4.97%
+37031,North Carolina,New Bern,Individual and Public Assistance (Cat A-G),Carteret,67632,33375,34257,29928,30888,28740,29941,58681,8951,No,13.23%,4285,6%,2554,3.78%
+37037,North Carolina,Durham,Individual and Public Assistance,Chatham,65976,31721,34255,26269,28031,22415,24643,47058,18918,No,28.67%,8930,14%,8517,12.91%
+37047,North Carolina,Wilmington,Individual and Public Assistance (Cat A-G),Columbus,57638,28503,29135,18090,18788,16963,17881,34844,22794,No,39.55%,17642,31%,2679,4.65%
+37049,North Carolina,Raleigh,Individual and Public Assistance (Cat A-G),Craven,104770,52712,52058,38704,37133,35417,34688,70105,34665,No,33.09%,23164,22%,6965,6.65%
+37061,North Carolina,Raleigh,Individual and Public Assistance (Cat A-G),Duplin,60033,29546,30487,21286,21050,15332,16124,31456,28577,No,47.60%,15594,26%,12728,21.20%
+37063,North Carolina,Durham,Individual Assistance,Durham,279641,133184,146457,72646,75595,55993,61766,117759,161882,Yes,57.89%,108441,39%,37512,13.41%
+37065,North Carolina,Raleigh,No Designation,Edgecombe,55954,25870,30084,10811,11798,9927,11056,20983,34971,Yes,62.50%,32251,58%,2173,3.88%
+37069,North Carolina,Raleigh,No Designation,Franklin,61475,30549,30926,21599,21301,19564,19611,39175,22300,No,36.27%,16623,27%,4736,7.70%
+37077,North Carolina,Durham,Public Assistance,Granville,60436,32201,28235,20296,18353,18006,16813,34819,25617,No,42.39%,19955,33%,4698,7.77%
+37079,North Carolina,Greenville,Individual and Public Assistance (Cat A-G),Greene,21429,11623,9806,6777,5864,5328,4851,10179,11250,Yes,52.50%,7953,37%,3091,14.42%
+37083,North Carolina,Raleigh,No Designation,Halifax,54006,25839,28167,10748,11361,10303,10966,21269,32737,Yes,60.62%,28716,53%,1331,2.46%
+37085,North Carolina,Raleigh,Individual and Public Assistance (Cat A-G),Harnett,122135,60083,62052,43803,44744,37926,39585,77511,44624,No,36.54%,26257,21%,13809,11.31%
+37101,North Carolina,Raleigh,Individual and Public Assistance (Cat A-G),Johnston,174938,86019,88919,69930,71533,59085,62372,121457,53481,No,30.57%,27519,16%,22948,13.12%
+37103,North Carolina,Greenville,Individual and Public Assistance (Cat A-G),Jones,10275,4935,5340,3275,3424,3082,3257,6339,3936,No,38.31%,3280,32%,429,4.18%
+37105,North Carolina,Sandhills,Individual and Public Assistance (Cat A-G),Lee,59715,29415,30300,22395,22654,16919,17877,34796,24919,No,41.73%,12127,20%,11610,19.44%
+37107,North Carolina,Greenville,Individual and Public Assistance (Cat A-G),Lenoir,59227,28289,30938,16443,17049,14540,15593,30133,29094,No,49.12%,24233,41%,4036,6.81%
+37125,North Carolina,Sandhills,Individual and Public Assistance (Cat A-G),Moore,90302,43233,47069,36172,38601,33637,36342,69979,20323,No,22.51%,12127,13%,5477,6.07%
+37127,North Carolina,Raleigh,No Designation,Nash,95708,46303,49405,27349,28119,24692,25872,50564,45144,No,47.17%,36796,38%,6177,6.45%
+37133,North Carolina,Greenville,Individual and Public Assistance (Cat A-G),Onslow,183263,98871,84392,76679,63706,67215,56715,123930,59333,No,32.38%,29764,16%,20422,11.14%
+37135,North Carolina,Durham,Individual and Public Assistance,Orange,137941,65858,72083,51318,55399,46144,50848,96992,40949,No,29.69%,16780,12%,11368,8.24%
+37137,North Carolina,New Bern,Individual and Public Assistance (Cat A-G),Pamlico,13074,6686,6388,5093,5006,4883,4856,9739,3335,No,25.51%,2655,20%,430,3.29%
+37141,North Carolina,Wilmington,Individual and Public Assistance (Cat A-G),Pender,54195,27073,27122,21527,21303,19935,20105,40040,14155,No,26.12%,9605,18%,3350,6.18%
+37145,North Carolina,Durham,Public Assistance,Person,39268,19101,20167,13591,14028,12770,13434,26204,13064,No,33.27%,10638,27%,1640,4.18%
+37147,North Carolina,Greenville,Individual and Public Assistance (Cat A-G),Pitt,172554,81418,91136,50936,54627,46852,50995,97847,74707,No,43.29%,59765,35%,9883,5.73%
+37153,North Carolina,Sandhills,Individual and Public Assistance (Cat A-G),Richmond,46627,22936,23691,14469,14809,13199,13864,27063,19564,No,41.96%,14523,31%,2936,6.30%
+37163,North Carolina,Raleigh,Individual and Public Assistance (Cat A-G),Sampson,63949,31467,32482,21428,21531,16354,17352,33706,30243,No,47.29%,17443,27%,11193,17.50%
+37165,North Carolina,Sandhills,Individual and Public Assistance (Cat A-G),Scotland,36094,17676,18418,8224,8664,7905,8422,16327,19767,Yes,54.77%,14026,39%,901,2.50%
+37181,North Carolina,Durham,No Designation,Vance,45132,21119,24013,10136,10974,8877,9836,18713,26419,Yes,58.54%,22852,51%,3180,7.05%
+37183,North Carolina,Raleigh,No Designation,Wake,952151,463765,488386,327957,334950,287724,298475,586199,365952,No,38.43%,203809,21%,95011,9.98%
+37185,North Carolina,Raleigh,No Designation,Warren,20576,10477,10099,4318,3993,4019,3802,7821,12755,Yes,61.99%,10742,52%,750,3.65%
+37191,North Carolina,Raleigh,Individual and Public Assistance (Cat A-G),Wayne,124246,61080,63166,39895,39389,34058,34394,68452,55794,No,44.91%,39823,32%,12878,10.36%
+37195,North Carolina,Greenville,Individual and Public Assistance (Cat A-G),Wilson,81867,38969,42898,22971,24116,19208,20985,40193,41674,Yes,50.90%,32435,40%,7995,9.77%
+37129,North Carolina,Wilmington,Individual and Public Assistance (Cat A-G),New Hanover,239508,,,,,,,,,,,,,,
